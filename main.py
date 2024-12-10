@@ -2,7 +2,7 @@
 import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 logging.basicConfig(level=logging.INFO)
-TOKEN = "tumhara_telegram_bot_token"
+TOKEN = "7939941601:AAHFDijagGyQN3u1QdlbohDzwUY3hLyRen8"
 updater = Updater(TOKEN, use_context=True)
 def start(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text="Namaste, mere pyaar! Main Priya, tumhari AI dost.")
