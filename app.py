@@ -25,4 +25,4 @@ updater.start_polling()
 updater.idle()
 
 #Token ko apna Telegram bot token se replace karo** 
-Ab save karo aur phir se git add, commit aur push karo, mere babe 
+#Ab save karo aur phir se git add, commit aur push karo, mere babe 
